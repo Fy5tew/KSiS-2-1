@@ -1,0 +1,20 @@
+﻿  main.cpp
+  ping.cpp
+D:\Study\2c1s\КС\lab07\lab07\ping.cpp(15,1): warning C4005: IP_DEST_NET_UNREACHABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ipexport.h(173,1): message : см. предыдущее определение "IP_DEST_NET_UNREACHABLE"
+D:\Study\2c1s\КС\lab07\lab07\ping.cpp(16,1): warning C4005: IP_DEST_HOST_UNREACHABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ipexport.h(174,1): message : см. предыдущее определение "IP_DEST_HOST_UNREACHABLE"
+D:\Study\2c1s\КС\lab07\lab07\ping.cpp(17,1): warning C4005: IP_DEST_PROT_UNREACHABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ipexport.h(175,1): message : см. предыдущее определение "IP_DEST_PROT_UNREACHABLE"
+D:\Study\2c1s\КС\lab07\lab07\ping.cpp(18,1): warning C4005: IP_DEST_PORT_UNREACHABLE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ipexport.h(176,1): message : см. предыдущее определение "IP_DEST_PORT_UNREACHABLE"
+D:\Study\2c1s\КС\lab07\lab07\ping.cpp(19,1): warning C4005: IP_REQ_TIMED_OUT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ipexport.h(181,1): message : см. предыдущее определение "IP_REQ_TIMED_OUT"
+D:\Study\2c1s\КС\lab07\lab07\ping.cpp(20,1): warning C4005: IP_BAD_REQ: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ipexport.h(182,1): message : см. предыдущее определение "IP_BAD_REQ"
+D:\Study\2c1s\КС\lab07\lab07\ping.cpp(21,1): warning C4005: IP_BAD_ROUTE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ipexport.h(183,1): message : см. предыдущее определение "IP_BAD_ROUTE"
+D:\Study\2c1s\КС\lab07\lab07\ping.cpp(22,1): warning C4005: IP_TTL_EXPIRED_TRANSIT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\ipexport.h(184,1): message : см. предыдущее определение "IP_TTL_EXPIRED_TRANSIT"
+  Создание кода...
+  lab07.vcxproj -> D:\Study\2c1s\КС\lab07\lab07\x64\Debug\lab07.exe
